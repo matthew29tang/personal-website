@@ -1,0 +1,44 @@
+-   id: 1
+    name: Golden Gate Science Olympiad
+    desc: Science Olympiad competition hosted by UC Berkeley and Stanford students
+    link: https://goldengateso.com/
+    img: ggso.png
+    width: 8
+    height: 2
+    color: "#C62828"
+
+-   id: 2
+    name: BearCare
+    desc: One-stop resource mobile application for managing and promoting student health in Berkeley
+    link: https://github.com/matthew29tang/UHS_webscraper
+    img: 
+    width: 4
+    height: 2
+    color: "#1976D2"
+
+-   id: 3
+    name: AUX4All
+    desc: Mobile application that creates an egalitarian queue and voting system for music
+    link: https://github.com/ishulai/AUX4All
+    img: aux4all.png
+    width: 4
+    height: 2
+    color: "#9C27B0"
+
+-   id: 4
+    name: BonvoyApp
+    desc: Mobile application that generates a travel itinerary with user given location, budget, and interests
+    link: https://github.com/sguo35/Bonvoyapp
+    img: BonvoyApp.png
+    width: 4
+    height: 2
+    color: "#4CAF50"
+
+-   id: 5
+    name: Autonomous Car
+    desc: Autonomous robot cars that use a potential field controller and computer vision to navigate hazards
+    link: https://youtu.be/SVdoSp3nEDU
+    img: bwsi.png
+    width: 4
+    height: 2
+    color: "#002e7a"

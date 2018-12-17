@@ -1,0 +1,22 @@
+/**
+ * Blocks
+ */
+
+
+.block{    
+    overflow: hidden; 
+    min-height: $height-unit + $block-padding * 2; 
+    border: 2px solid hsla(0, 0%, 0%, 0.5);
+    
+    .block-body{
+        margin: $block-padding;
+        margin-top: 5px;
+        min-height: $height-unit; 
+        position: relative;
+        height: 100%;
+    }
+}
+
+.block:hover {
+	opacity: 0.75;
+}

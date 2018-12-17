@@ -1,0 +1,41 @@
+--- 
+layout: default 
+---
+
+<div class="home">
+    <h1>
+        <font color="black">Matthew Tang</font>
+    </h1>
+    <div class="col col-12">
+        <div class="col col-3">
+            <center>
+                <img class="glass" src="img/headshot.jpg" width="200">
+            </center>
+        </div>
+        <div class="col col-9">
+            <div class="glass">
+                <h3 class="black-text">Hey, I'm Matthew! <br><br> I'm a freshman at UC Berkeley studying Electrical Engineering and Computer Science. As an app developer, autonomous technology enthusiast, cyber security puzzle solver, I am interested in a wide range of applications of software development.</h3>
+            </div>
+        </div>
+    </div>
+ 
+    <h1 style = "margin-top:230px;">
+        <font color="black">Projects</font>
+    </h1>
+    <br>
+    <div class="col col-12">
+        {% for project in site.data.portfolio %}
+        <a href="{{ project.link }}" target="_blank">
+            <div class="col col-{{project.width}}">
+                <div class="block" style="background-color: {{ project.color }}; background-image:url(img/logos/{{project.img}}); background-size: contain; background-repeat: no-repeat; background-position: center center;">
+                    <div class="block-body height-{{project.height}}">
+                        <h1 class = "shadow">{{ project.name }}</h1>
+                        <h3 class = "shadow">{{ project.desc }}</h3>
+                    </div>
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+
+</div>
