@@ -234,6 +234,10 @@
     min-height: $height-unit * 3;
 }
 
+.height-4{
+    min-height: $height-unit * 4 + 24;
+}
+
 /**
  * Page content
  */

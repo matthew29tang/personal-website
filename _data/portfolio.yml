@@ -1,11 +1,20 @@
--   id: 1
+-   id: 0
     name: ShareFund
     desc: A democratic hedge fund that uses algorithmic trading and machine learning to make decisions
     link: https://github.com/matthew29tang/ShareFund
     img: ShareFund.png
     width: 4
-    height: 2
+    height: 4
     color: "#39d188" 
+
+-   id: 1
+    name: Robot Olympics
+    desc: Human-Robot Interaction game from my research at the USC Interaction Lab
+    link: https://matthew29tang.github.io/hri-game
+    img: Kuri.png
+    width: 8
+    height: 2
+    color: "#1976D2"
 
 -   id: 2
     name: AUX4All
