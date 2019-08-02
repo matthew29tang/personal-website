@@ -11,7 +11,7 @@
     name: Robot Olympics
     desc: Human-Robot Interaction game from my research at the USC Interaction Lab
     link: https://matthew29tang.github.io/hri-game
-    img: Kuri.png
+    img: kuri.png
     width: 8
     height: 2
     color: "#1976D2"
