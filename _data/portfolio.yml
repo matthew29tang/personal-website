@@ -1,12 +1,3 @@
--   id: 0
-    name: ShareFund
-    desc: A democratic hedge fund that uses algorithmic trading and machine learning to make decisions
-    link: https://github.com/matthew29tang/ShareFund
-    img: ShareFund.png
-    width: 4
-    height: 4
-    color: "#39d188" 
-
 -   id: 1
     name: Robot Olympics
     desc: Human-Robot Interaction game from my research at the USC Interaction Lab
@@ -15,8 +6,26 @@
     width: 8
     height: 2
     color: "#1976D2"
-
+    
 -   id: 2
+    name: ShareFund
+    desc: A democratic hedge fund that uses algorithmic trading and machine learning to make decisions
+    link: https://github.com/matthew29tang/ShareFund
+    img: ShareFund.png
+    width: 4
+    height: 2
+    color: "#39d188" 
+
+-   id: 3
+    name: HyperVision
+    desc: Web app that scans URLs from pictures using OCR
+    link: https://matthew29tang.github.io/hri-game
+    img: hypervision.png
+    width: 4
+    height: 2
+    color: "#3ECAE6"
+
+-   id: 4
     name: AUX4All
     desc: Mobile application that creates an egalitarian queue and voting system for music
     link: https://github.com/ishulai/AUX4All
@@ -25,7 +34,7 @@
     height: 2
     color: "#9C27B0"
 
--   id: 3
+-   id: 5
     name: 2019 Puzzle Hunt
     desc: A collection of unique logic puzzles that I developed for my friends
     link: ./files/puzzlehunt19.pdf
@@ -34,7 +43,7 @@
     height: 2
     color: "#e1df2c"
     
--   id: 4
+-   id: 6
     name: UHS Calendar
     desc: Calendar mobile application for managing and promoting student health in Berkeley
     link: https://github.com/matthew29tang/UHS_webscraper
@@ -43,7 +52,7 @@
     height: 2
     color: "#1976D2"
     
--   id: 5
+-   id: 7
     name: Golden Gate Science Olympiad
     desc: Science Olympiad competition hosted by UC Berkeley and Stanford students
     link: https://goldengateso.com/
@@ -52,7 +61,7 @@
     height: 2
     color: "#C62828"
 
--   id: 6
+-   id: 8
     name: BonvoyApp
     desc: Mobile application that generates a travel itinerary with user given location, budget, and interests
     link: https://github.com/matthew29tang/Bonvoyapp
@@ -61,7 +70,7 @@
     height: 2
     color: "#4CAF50"
 
--   id: 7
+-   id: 9
     name: Autonomous Car
     desc: Autonomous robot cars that use a potential field controller and computer vision to navigate hazards
     link: https://youtu.be/SVdoSp3nEDU
@@ -70,7 +79,7 @@
     height: 2
     color: "#002e7a"
 
--   id: 8
+-   id: 10
     name: National Park Kiosk
     desc: An online kiosk for US national park information
     link: https://matthew29tang.github.io/nps-kiosk/
