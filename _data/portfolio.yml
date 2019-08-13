@@ -19,7 +19,7 @@
 -   id: 3
     name: HyperVision
     desc: Web app that scans URLs from pictures using OCR
-    link: https://matthew29tang.github.io/hri-game
+    link: https://matthew29tang.github.io/hypervision/
     img: hypervision.png
     width: 4
     height: 2
