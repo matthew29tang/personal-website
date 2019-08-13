@@ -99,6 +99,12 @@ h1, h2, h3, h4, h5, h6 {
     1px 1px 0 #000;  
 }
 
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .shadow {
+        text-shadow: 1px 1px #000000;
+    }
+}
+
 /**
  * Links
  */
