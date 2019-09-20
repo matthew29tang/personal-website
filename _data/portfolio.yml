@@ -1,9 +1,18 @@
+-   id: 0
+    name: ParkMe
+    desc: Crowdsourced parking availability app that uses computer vision and geocoding to detect curbs
+    link: https://github.com/ishulai/ParkMe
+    img: parkme.png
+    width: 4
+    height: 2
+    color: "#5C996B"
+    
 -   id: 1
     name: Robot Olympics
     desc: Human-Robot Interaction game from my research at the USC Interaction Lab
     link: https://matthew29tang.github.io/hri-game
     img: kuri.png
-    width: 8
+    width: 4
     height: 2
     color: "#1976D2"
     
