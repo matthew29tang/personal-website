@@ -19,7 +19,7 @@
 -   id: 3
     name: TA Transport
     desc: A greedy approximation solver for NP-hard variant of Travelling Salesman Problem
-    link: https://github.com/matthew29tang/cs170-ta-transportation
+    link: https://github.com/matthew29tang/TA-Transportation
     img: TATransport.png
     width: 4
     height: 2
