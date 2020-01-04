@@ -1,4 +1,31 @@
--   id: 0
+-   id: 1
+    name: Universal Subtitler
+    desc: Generate subtitles in any language for videos using Google Speech to Text & Translate API
+    link: https://github.com/ishulai/ParkMe
+    img: usub.png
+    width: 4
+    height: 2
+    color: "#7300d5"
+    
+-   id: 2
+    name: 2020 Puzzle Hunt
+    desc: A collection of unique logic puzzles that I developed for my friends
+    link: https://aacfpuzzlehunt.tech/
+    img: puzzle20.png
+    width: 4
+    height: 2
+    color: "#133258"
+    
+-   id: 3
+    name: TA Transport
+    desc: A greedy approximation solver for NP-hard variant of Travelling Salesman Problem
+    link: https://github.com/matthew29tang/cs170-ta-transportation
+    img: TATransport.png
+    width: 4
+    height: 2
+    color: "#42ac48" 
+
+-   id: 4
     name: ParkMe
     desc: Crowdsourced parking availability app that uses computer vision and geocoding to detect curbs
     link: https://github.com/ishulai/ParkMe
@@ -7,7 +34,7 @@
     height: 2
     color: "#5C996B"
     
--   id: 1
+-   id: 5
     name: Robot Olympics
     desc: Human-Robot Interaction game from my research at the USC Interaction Lab
     link: https://matthew29tang.github.io/hri-game
@@ -16,7 +43,7 @@
     height: 2
     color: "#1976D2"
     
--   id: 2
+-   id: 6
     name: ShareFund
     desc: A democratic hedge fund that uses algorithmic trading and machine learning to make decisions
     link: https://github.com/matthew29tang/ShareFund
@@ -25,7 +52,7 @@
     height: 2
     color: "#39d188" 
 
--   id: 3
+-   id: 7
     name: HyperVision
     desc: Web app that scans URLs from pictures using OCR
     link: https://matthew29tang.github.io/hypervision/
@@ -34,7 +61,7 @@
     height: 2
     color: "#3ECAE6"
 
--   id: 4
+-   id: 8
     name: AUX4All
     desc: Mobile application that creates an egalitarian queue and voting system for music
     link: https://github.com/ishulai/AUX4All
@@ -43,16 +70,16 @@
     height: 2
     color: "#9C27B0"
 
--   id: 5
+-   id: 9
     name: 2019 Puzzle Hunt
     desc: A collection of unique logic puzzles that I developed for my friends
     link: ./files/puzzlehunt19.pdf
-    img: puzzle.png
+    img: puzzle19.png
     width: 4
     height: 2
     color: "#e1df2c"
     
--   id: 6
+-   id: 10
     name: UHS Calendar
     desc: Calendar mobile application for managing and promoting student health in Berkeley
     link: https://github.com/matthew29tang/UHS_webscraper
@@ -61,7 +88,7 @@
     height: 2
     color: "#1976D2"
     
--   id: 7
+-   id: 11
     name: Golden Gate Science Olympiad
     desc: Science Olympiad competition hosted by UC Berkeley and Stanford students
     link: https://goldengateso.com/
@@ -70,7 +97,7 @@
     height: 2
     color: "#C62828"
 
--   id: 8
+-   id: 12
     name: BonvoyApp
     desc: Mobile application that generates a travel itinerary with user given location, budget, and interests
     link: https://github.com/matthew29tang/Bonvoyapp
@@ -79,7 +106,7 @@
     height: 2
     color: "#4CAF50"
 
--   id: 9
+-   id: 13
     name: Autonomous Car
     desc: Autonomous robot cars that use a potential field controller and computer vision to navigate hazards
     link: https://youtu.be/SVdoSp3nEDU
@@ -88,7 +115,7 @@
     height: 2
     color: "#002e7a"
 
--   id: 10
+-   id: 14
     name: National Park Kiosk
     desc: An online kiosk for US national park information
     link: https://matthew29tang.github.io/nps-kiosk/
