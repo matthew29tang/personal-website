@@ -1,11 +1,11 @@
 -   id: 1
     name: Universal Subtitler
     desc: Generate subtitles in any language for videos using Google Speech to Text & Translate API
-    link: https://github.com/ishulai/ParkMe
+    link: https://github.com/matthew29tang/universal-subtitler
     img: usub.png
     width: 4
     height: 2
-    color: "#7300d5"
+    color: "#54557D"
     
 -   id: 2
     name: 2020 Puzzle Hunt
@@ -23,7 +23,7 @@
     img: TATransport.png
     width: 4
     height: 2
-    color: "#42ac48" 
+    color: "#5C996B" 
 
 -   id: 4
     name: ParkMe
@@ -32,7 +32,7 @@
     img: parkme.png
     width: 4
     height: 2
-    color: "#5C996B"
+    color: "#9CAFB7"
     
 -   id: 5
     name: Robot Olympics
@@ -41,7 +41,7 @@
     img: kuri.png
     width: 4
     height: 2
-    color: "#1976D2"
+    color: "#3C7696"
     
 -   id: 6
     name: ShareFund
@@ -50,7 +50,7 @@
     img: ShareFund.png
     width: 4
     height: 2
-    color: "#39d188" 
+    color: "#42D191" 
 
 -   id: 7
     name: HyperVision
@@ -59,7 +59,7 @@
     img: hypervision.png
     width: 4
     height: 2
-    color: "#3ECAE6"
+    color: "#88D9E6"
 
 -   id: 8
     name: AUX4All
@@ -68,7 +68,7 @@
     img: aux4all.png
     width: 4
     height: 2
-    color: "#9C27B0"
+    color: "#8B8BAE"
 
 -   id: 9
     name: 2019 Puzzle Hunt
@@ -77,16 +77,16 @@
     img: puzzle19.png
     width: 4
     height: 2
-    color: "#e1df2c"
+    color: "#E5D38A"
     
 -   id: 10
     name: UHS Calendar
     desc: Calendar mobile application for managing and promoting student health in Berkeley
-    link: https://github.com/matthew29tang/UHS_webscraper
+    link: https://github.com/matthew29tang/UHS-Cal
     img: uhs_cal.png
     width: 4
     height: 2
-    color: "#1976D2"
+    color: "#3993DD"
     
 -   id: 11
     name: Golden Gate Science Olympiad
@@ -95,7 +95,7 @@
     img: ggso.png
     width: 8
     height: 2
-    color: "#C62828"
+    color: "#BF6F71"
 
 -   id: 12
     name: BonvoyApp
@@ -104,7 +104,7 @@
     img: BonvoyApp.png
     width: 4
     height: 2
-    color: "#4CAF50"
+    color: "#3C896D"
 
 -   id: 13
     name: Autonomous Car
@@ -113,7 +113,7 @@
     img: bwsi.png
     width: 4
     height: 2
-    color: "#002e7a"
+    color: "#3B597F"
 
 -   id: 14
     name: National Park Kiosk
@@ -122,4 +122,4 @@
     img: nps.png
     width: 4
     height: 2
-    color: "#00a804"
+    color: "#526760"
