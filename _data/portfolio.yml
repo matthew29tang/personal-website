@@ -17,9 +17,9 @@
     color: "#133258"
     
 -   id: 3
-    name: TA Transport
+    name: TransporTA
     desc: A greedy approximation solver for NP-hard variant of Travelling Salesman Problem
-    link: https://github.com/matthew29tang/TA-Transportation
+    link: https://github.com/matthew29tang/TransporTA
     img: TATransport.png
     width: 4
     height: 2
