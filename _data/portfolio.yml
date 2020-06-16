@@ -1,4 +1,31 @@
 -   id: 1
+    name: FuSSI Net
+    desc: End-to-end pedestrian intention framework in collaboration with Chalmers University and Volvo Cars.
+    link: https://matthew29tang.github.io/pid-model/
+    img: fussinet.png
+    width: 4
+    height: 2
+    color: "#79AEA3"
+    
+-   id: 2
+    name: Corona Plot
+    desc: COVID-19 map tracker with cumulative cases graphs
+    link: https://matthew29tang.github.io/corona-plot/
+    img: covid.png
+    width: 4
+    height: 2
+    color: "#CCCBA7"
+    
+-   id: 3
+    name: OpenITS
+    desc: An open source Intelligent Tutoring System framework using Bayesian Knowledge Tracing
+    link: https://cahlr.github.io/OpenITS
+    img: openits.png
+    width: 4
+    height: 2
+    color: "#AFC2D5" 
+
+-   id: 4
     name: Universal Subtitler
     desc: Generate subtitles in any language for videos using Google Speech to Text & Translate API
     link: https://github.com/matthew29tang/universal-subtitler
@@ -7,7 +34,7 @@
     height: 2
     color: "#54557D"
     
--   id: 2
+-   id: 5
     name: 2020 Puzzle Hunt
     desc: A collection of unique logic puzzles that I developed for my friends
     link: https://aacfpuzzlehunt.tech/
@@ -16,7 +43,7 @@
     height: 2
     color: "#133258"
     
--   id: 3
+-   id: 6
     name: TransporTA
     desc: A greedy approximation solver for NP-hard variant of Travelling Salesman Problem
     link: https://github.com/matthew29tang/TransporTA
@@ -25,7 +52,7 @@
     height: 2
     color: "#5C996B" 
 
--   id: 4
+-   id: 7
     name: ParkMe
     desc: Crowdsourced parking availability app that uses computer vision and geocoding to detect curbs
     link: https://github.com/ishulai/ParkMe
@@ -34,7 +61,7 @@
     height: 2
     color: "#9CAFB7"
     
--   id: 5
+-   id: 8
     name: Robot Olympics
     desc: Human-Robot Interaction game from my research at the USC Interaction Lab
     link: https://matthew29tang.github.io/hri-game
@@ -43,7 +70,7 @@
     height: 2
     color: "#3C7696"
     
--   id: 6
+-   id: 9
     name: ShareFund
     desc: A democratic hedge fund that uses algorithmic trading and machine learning to make decisions
     link: https://github.com/matthew29tang/ShareFund
@@ -52,7 +79,7 @@
     height: 2
     color: "#42D191" 
 
--   id: 7
+-   id: 10
     name: HyperVision
     desc: Web app that scans URLs from pictures using OCR
     link: https://matthew29tang.github.io/hypervision/
@@ -61,7 +88,7 @@
     height: 2
     color: "#88D9E6"
 
--   id: 8
+-   id: 11
     name: AUX4All
     desc: Mobile application that creates an egalitarian queue and voting system for music
     link: https://github.com/ishulai/AUX4All
@@ -70,7 +97,7 @@
     height: 2
     color: "#8B8BAE"
 
--   id: 9
+-   id: 12
     name: 2019 Puzzle Hunt
     desc: A collection of unique logic puzzles that I developed for my friends
     link: ./files/puzzlehunt19.pdf
@@ -79,7 +106,7 @@
     height: 2
     color: "#E5D38A"
     
--   id: 10
+-   id: 13
     name: UHS Calendar
     desc: Calendar mobile application for managing and promoting student health in Berkeley
     link: https://github.com/matthew29tang/UHS-Cal
@@ -88,7 +115,7 @@
     height: 2
     color: "#3993DD"
     
--   id: 11
+-   id: 14
     name: Golden Gate Science Olympiad
     desc: Science Olympiad competition hosted by UC Berkeley and Stanford students
     link: https://goldengateso.com/
@@ -97,7 +124,7 @@
     height: 2
     color: "#BF6F71"
 
--   id: 12
+-   id: 15
     name: BonvoyApp
     desc: Mobile application that generates a travel itinerary with user given location, budget, and interests
     link: https://github.com/matthew29tang/Bonvoyapp
@@ -106,7 +133,7 @@
     height: 2
     color: "#3C896D"
 
--   id: 13
+-   id: 16
     name: Autonomous Car
     desc: Autonomous robot cars that use a potential field controller and computer vision to navigate hazards
     link: https://youtu.be/SVdoSp3nEDU
@@ -115,7 +142,7 @@
     height: 2
     color: "#3B597F"
 
--   id: 14
+-   id: 17
     name: National Park Kiosk
     desc: An online kiosk for US national park information
     link: https://matthew29tang.github.io/nps-kiosk/
