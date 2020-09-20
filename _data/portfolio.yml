@@ -8,9 +8,9 @@
     color: "#79AEA3"
     
 -   id: 2
-    name: Corona Plot
-    desc: COVID-19 map tracker with cumulative cases graphs
-    link: https://matthew29tang.github.io/corona-plot/
+    name: CoVisualize
+    desc: An innovative COVID-19 case visualizer
+    link: https://matthew29tang.github.io/covisualize/
     img: covid.png
     width: 4
     height: 2
