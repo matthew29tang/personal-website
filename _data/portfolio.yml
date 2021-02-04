@@ -37,7 +37,7 @@
 -   id: 5
     name: 2020 Puzzle Hunt
     desc: A collection of unique logic puzzles that I developed for my friends
-    link: https://aacfpuzzlehunt.tech/
+    link: ./ph20_master.pdf
     img: puzzle20.png
     width: 4
     height: 2
