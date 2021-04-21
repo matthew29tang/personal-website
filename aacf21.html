@@ -689,14 +689,14 @@ dd {
 <header>
 <div id="xi">
   <h1>2021 AACF Scoreboard</h1>
-	<p><a href="https://docs.google.com/presentation/d/1bxQE80wm_maCEf5rIT3koJXbNtjqZHczDhXTWJxSpvk/edit#slide=id.p" target="_blank" style="color: #ffffff; text-decoration: none;" onMouseOver="style='color: #ffffff;text-decoration:underline'" onMouseOut="style='color: #ffffff;text-decoration:none'"> Estimathon</a>,
+	<p>Recaps: <a href="https://docs.google.com/presentation/d/1bxQE80wm_maCEf5rIT3koJXbNtjqZHczDhXTWJxSpvk/edit#slide=id.p" target="_blank" style="color: #ffffff; text-decoration: none;" onMouseOver="style='color: #ffffff;text-decoration:underline'" onMouseOut="style='color: #ffffff;text-decoration:none'"> Estimathon</a>,
 	<a href="https://matthew29tang.github.io/ph21_master.pdf" target="_blank" style="color: #ffffff; text-decoration: none;" onMouseOver="style='color: #ffffff;text-decoration:underline'" onMouseOut="style='color: #ffffff;text-decoration:none'"> Puzzle Hunt</a>,
 	<a href="https://hackmd.io/@matthewtang/wipi-recap" target="_blank" style="color: #ffffff; text-decoration: none;" onMouseOver="style='color: #ffffff;text-decoration:underline'" onMouseOut="style='color: #ffffff;text-decoration:none'"> WIPI</a>,
 	<a href="https://hackmd.io/@matthewtang/wiki-speedrunning-f20" target="_blank" style="color: #ffffff; text-decoration: none;" onMouseOver="style='color: #ffffff;text-decoration:underline'" onMouseOut="style='color: #ffffff;text-decoration:none'"> Wikipedia</a>  </span></p>
 </div>
 <div id="butterfly">
 <select id="focus" aria-label="Focus table" autocomplete="off">
-  <option value="0">All Events</option>
+  <option value="0">All Games</option>
   <option value="1">Estimathon</option>
   <option value="2">Puzzle Hunt</option>
   <option value="3">WIPI</option>
@@ -704,9 +704,9 @@ dd {
   <option value="5">Tiebreakers</option>
 </select><select id="sort" aria-label="Sort table" autocomplete="off">
   <option>by Rank</option>
-  <option>by Number</option>
-  <option>by School</option>
-  <option>by State</option>
+  <option>by Class</option>
+  <option>by Name</option>
+  <option>by Region</option>
 </select></div>
 </header>
 <table>
@@ -721,7 +721,7 @@ dd {
 <thead>
 <tr>
   <th>#</th>
-  <th>Team</th>
+  <th>Name</th>
   <th></th>
   <th>Overall</th>
   <th>Total</th>
@@ -855,7 +855,7 @@ dd {
 </tr>
 <tr id="t9">
   <td><a href="#9">9</a></td>
-  <td>Sam He <small>MA</small></td>
+  <td>Sam He <small>is MAssive</small></td>
   <td></td>
   <td><div>11</div></td>
   <td>11.3</td>
@@ -1753,9 +1753,9 @@ function sortTableBy(comparisonFunction) {
 }
 
 const optionToFunctionMap = {
-  'by Number': compareTeamNumber,
-  'by School': compareTeamSchool,
-  'by State': compareTeamState,
+  'by Class': compareTeamNumber,
+  'by Name': compareTeamSchool,
+  'by Region': compareTeamState,
 }
 
 function sortTable(option) {
@@ -1896,9 +1896,9 @@ if (subSelect) {
 thead.addEventListener('click', e => {
   let col = e.target.closest('th').cellIndex;
   if (col === 0) {
-    sortSelect.value = 'by Number';
+    sortSelect.value = 'by Class';
   } else if (col === 1) {
-    sortSelect.value = 'by School';
+    sortSelect.value = 'by Name';
   } else if (col === 2) {
     sortSelect.value = 'by Rank';
   } else if (col === 3 | col === 4) {
